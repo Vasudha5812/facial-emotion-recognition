@@ -1,4 +1,4 @@
-# facial-emotion-recognition
+
 # Facial Emotion Recognition
 
 This project predicts emotions from facial images using a Convolutional Neural Network (CNN).
